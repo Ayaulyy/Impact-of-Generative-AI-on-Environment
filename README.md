@@ -33,7 +33,7 @@ Regional electricity and gas totals provide context. They cannot by themselves i
 
 ## Current status
 
-Project planning and source collection are underway. Analysis results have not yet been validated. The Sustainable AI selected-columns CSV is currently **empty (0 bytes)** and must be restored before use. The Nexus dataset requires a provenance and content audit.
+Project planning and source collection are finished. Analysis results have not yet been validated. Three working datasets are uploaded in `data/raw folder`. Literature review is finished, all necessary literature sources (pdfs, links) are in `references ` folder.
 
 ## Working method
 
