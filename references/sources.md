@@ -5,6 +5,7 @@
 - [Impact-of-Generative-AI-on-Environment](https://github.com/Ayaulyy/Impact-of-Generative-AI-on-Environment/blob/main/artificial-intelligence-impact-on-the-environment-hidden-ecological-costs-and-ethical-legal-issues.pdf)
 - [ADEME / data.gouv.fr – L’impact environnemental de l’IA générative](https://defis.data.gouv.fr/defis/limpact-environnemental-de-lia-generative)
 - [A social-environmental impact perspective of generative artificial intelligence](https://www.sciencedirect.com/science/article/pii/S2666498424001340?via%3Dihub)
+- [GENERATIVE AI: ENVIRONMENTAL ISSUES AND CHALLENGES](https://www.arcep.fr/uploads/tx_gspublication/report-generative-AI-environmental-issues_may2026.pdf)
 ## Collected papers
 
 - A_Generic_Explainable_Approach_Model_for_Energy_Forecasting_in_Smart_Buildings.pdf
