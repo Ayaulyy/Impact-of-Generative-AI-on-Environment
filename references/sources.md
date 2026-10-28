@@ -2,6 +2,7 @@
 
 - [Project challenge: environmental impact of generative AI](https://defis.data.gouv.fr/defis/limpact-environnemental-de-lia-generative)
 - [Existing team source: Statista AI worldwide](https://www.statista.com/topics/3104/artificial-intelligence-ai-worldwide/#topicOverview)
+- [AAAAA](https://www.statista.com/topics/3104/artificial-intelligence-ai-worldwide/#topicOverview)
 
 ## Collected papers
 
